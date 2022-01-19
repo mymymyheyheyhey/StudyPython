@@ -22,4 +22,24 @@
 
 ### 3일 차
 - 흐름 제어(if, for, while)
+- 변수의 라이프스코프(local, global variable)
+- 클래스 개념 정리
+  - 특성 명사 속성 attribute
+  - 행동 동사 메서드 method
+- 모듈/패키지
+
+
+### 4일 차
+- 모듈/패키지
+- 입출력 Input Output
+- 파일 입출력
+- 예외 처리
+- 디버깅
+
+
+
+
+
+
+
 
