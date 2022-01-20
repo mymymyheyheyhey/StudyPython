@@ -4,3 +4,5 @@ matrix = []
 for i in range(row):
     matrix.append(list(input()))
 
+print(matrix)
+
