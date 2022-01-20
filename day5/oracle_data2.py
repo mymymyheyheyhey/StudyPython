@@ -34,7 +34,7 @@ def Senamejob(conn):
 
 def Sdeptname(conn, tup):
     cur = conn.cursor()
-    query = f"SELECT * FROM dept WHERE deptno = :1 and loc = ':2'" 
+    query = f"SELECT * FROM dept WHERE deptno = :1 and loc = :2" 
     # 파이썬은 0부터 오라클은 1부터 :1 자리에 no 들어감
     # loc 은 글자라서 '' 안에 넣음
     # deptno 숫자라서 '' 넣지 않았음
