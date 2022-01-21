@@ -1,6 +1,7 @@
 # StudyPython
 빅데이터 파이썬 학습 리포지토리
 
+![python](https://mblogthumb-phinf.pstatic.net/MjAxNzAyMTNfMjEg/MDAxNDg2OTcxNzM3NTE5.FKqf5HaO1eoFhgXkGE2jXVKKQ-jVdwXho4N8cIU6L-Ig.KOSZAUeaSF3L8rh1kjDgoQUDuFg5pEX6EsZKJ4lmASEg.JPEG.acornedu/01_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4.jpg?type=w800)
 
 
 ### 1일 차
