@@ -42,6 +42,14 @@
 - Oracle CRUD 코딩
 
 
+### 6일 차
+- JupyterNotebook
+- class
+  - object
+  - attribute, method
+  - magic method('__init__', '__str__' etc)
+  
+
 
 
 

@@ -39,9 +39,11 @@ def Sdeptname(conn, tup):
     # loc 은 글자라서 '' 안에 넣음
     # deptno 숫자라서 '' 넣지 않았음
     # :1 :2는 각각 튜플의 인덱스임
-    cur.execute(query, tup)
-    row = cur.fetchone()
-    print(row)
+    cur.execute(query, tup) # 커서 객체로 쿼리를 실행
+    # row = cur.fetchone()
+    # print(row)
+    for row in cur.execute(query):
+        print(row)
 
 
 
